@@ -1,11 +1,11 @@
-# HedgeDoc pour YunoHost
+# Rallly pour YunoHost
 
 [![Niveau d'intégration](https://dash.yunohost.org/integration/hedgedoc.svg)](https://dash.yunohost.org/appci/app/hedgedoc) ![](https://ci-apps.yunohost.org/ci/badges/hedgedoc.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/hedgedoc.maintain.svg)  
-[![Installer HedgeDoc avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=hedgedoc)
+[![Installer Rallly avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=hedgedoc)
 
 *[Read this readme in english.](./README.md)* 
 
-> *Ce package vous permet d'installer HedgeDoc rapidement et simplement sur un serveur YunoHost.  
+> *Ce package vous permet d'installer Rallly rapidement et simplement sur un serveur YunoHost.  
 Si vous n'avez pas YunoHost, consultez [le guide](https://yunohost.org/#/install) pour apprendre comment l'installer.*
 
 ## Vue d'ensemble
@@ -19,7 +19,7 @@ HedgeDoc est un service web de traitement de texte collaboratif en temps réel. 
 
 ## Démo
 
-* [Démo officielle](https://demo.hedgedoc.org/)
+* [Démo officielle](https://rallly.co/HkLW9gobw)
 
 ## Configuration
 
@@ -45,7 +45,8 @@ Vous pouvez configurer HedgeDoc en modifiant le fichier `/var/www/hedgedoc/confi
 ## Liens
 
  * Signaler un bug : https://github.com/YunoHost-Apps/hedgedoc_ynh/issues
- * Dépôt de l'application principale : https://github.com/hedgedoc/server/
+ https://rallly.co/
+ * Dépôt de l'application principale : https://github.com/lukevella/Rallly
  * Site web YunoHost : https://yunohost.org/
 
 ---

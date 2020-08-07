@@ -1,0 +1,11 @@
+{
+    "port": __PORT__,
+    "siteUrl": "http://localhost:__PORT__", // Used for creating an absolute URL
+    "fromName": "Rallly", // Email from name
+    "fromEmail": "no-reploy@rallly.co", // Email from address
+    "db": "mongodb://localhost:27017/__APP__", // MongoDB connection string
+    "smtpUser": "", // SMTP user name
+    "smtpPwd": "", // SMTP user password
+    "smtpHost": "", // SMTP host
+    "smtpPort": 587 // SMTP port
+}
